@@ -1,4 +1,4 @@
-# AllConsoleBasedPrograms -- Projects by Visionary Technologies
+# ConsoleProgramDevelopment -- Project Initiative by Visionary Technologies
 Any project with a "Release" should be safe for general use, if it is not, make an "Issue" and it will be fixed immediately! 
 
 Any use of these programs outside of re-writing/adding code via this repository needs to be cleared by ShadowDeath (Creator of Visionary Technologies)
